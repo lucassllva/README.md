@@ -1,5 +1,9 @@
-A) Nesse passo executei o comando: echo 01 > arquivo.txt
-B) executado os comandos: 
+A) 
+@lucassllva ➜ /workspaces/codespaces-blank/ $ mkdir exercicio01
+@lucassllva ➜ /workspaces/codespaces-blank/ $ cd exercicio01/
+@lucassllva ➜ /workspaces/codespaces-blank/ $ echo 01 > arquivo.txt
+
+B) 
 @lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ git add .
 @lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ git status
 
