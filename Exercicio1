@@ -1,0 +1,43 @@
+A) Nesse passo executei o comando: echo 01 > arquivo.txt
+B) executado os comandos: 
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ git add .
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ git status
+
+C)
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ git commit -m "git add exemplo - arquivo.txt"
+
+D)
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ echo 02 > arquivo.txt
+
+E)
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ git diff
+
+F)
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ git add .
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ git status
+
+G)
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ git diff
+
+H)
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ echo 03 > arquivo.txt
+
+I)
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ git diff
+
+J)
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ git restore arquivo.txt
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ git status
+
+K)
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ git commit -m " commit 1 - arquivo.txt"
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ git log
+
+L)
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ nano .gitignore
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ cat .gitignore
+*.txt
+
+M)
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ echo > novo.txt
+@lucassllva ➜ /workspaces/codespaces-blank/exercicio01 (main) $ git status
